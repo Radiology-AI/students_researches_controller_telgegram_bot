@@ -35,8 +35,8 @@ import telegram_lists
 # ══════════════════════════════════════════════════════════════════════════════
 # CONFIG  — edit these two lines before running
 # ══════════════════════════════════════════════════════════════════════════════
-BOT_TOKEN  = "YOUR_BOT_TOKEN_HERE"
-TEACHER_ID = 123456789          # your numeric Telegram user ID
+BOT_TOKEN  = "8792336911:AAHAB_oBHXY9bz9bNLyWiLc8rgDG8yw9p_Y"
+TEACHER_ID = 92200068          # your numeric Telegram user ID
 DB_PATH    = "research.db"
 
 # ── Logging ───────────────────────────────────────────────────────────────────
